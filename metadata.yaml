@@ -1,0 +1,36 @@
+_repo: The-Book-of-the-Hamburgs-A-Brief-Treatise-upon-the-Mating-Rearing-and-Management-of-the-Diffe__53965
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    - Staunton, Schuyler
+    - Cooke, John Estes
+    - Fitzgerald, Hugh
+    - Akers, Floyd
+    - Metcalf, Suzanne
+    - Fitzgerald, Capt. Hugh
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2017-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hamburg chicken'
+- !lcc 'SF'
+- GITenberg
+title: "The Book of the Hamburgs\r\nA Brief Treatise upon the Mating, Rearing and\
+  \ Management of the Different Varieties of Hamburgs"
+url: http://www.gutenberg.org/ebooks/53965
